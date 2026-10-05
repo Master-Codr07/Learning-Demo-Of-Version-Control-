@@ -2,4 +2,4 @@
 
 First Time Git/GitHub
 <br> 
-Author-Kaushik
+Author-Kaushik (Gitam University)
